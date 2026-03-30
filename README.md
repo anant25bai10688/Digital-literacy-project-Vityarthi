@@ -42,7 +42,7 @@ The portfolio is organized across five tasks, each mapping to one module of the 
 - GitHub (repository and profile README)
 - LinkedIn (professional networking)
 - Kaggle (data science portfolio)
-- CodeChef (coding practice)
+- Hacker RAnk (coding practice)
 - Google Forms and Sheets (collaboration)
 
 ---
